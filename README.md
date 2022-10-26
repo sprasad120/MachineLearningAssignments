@@ -5,4 +5,4 @@ Repository updated with second Assignment of Machine Learning on 18th October, 2
 Assignment2 video link https://github.com/sprasad120/MachineLearningAssignments/blob/main/MachineLearning_Assignment2_700733605.zip
 
 Repository updated with 3rd Assignment of Machine Learning on 25th October, 2022.
-Assignment3 Video link 
+Assignment3 Video link https://github.com/sprasad120/MachineLearningAssignments/blob/main/MachineLearning_Assignment3_700733605.zip
