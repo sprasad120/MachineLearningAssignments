@@ -11,5 +11,7 @@ Repository updated with 4th Assignment of Machine learning on 5th November, 2022
 
 Repository updated with 5th assignment of Machine learning on 9th November, 2022.
 
+Repository updated with 6th assignment of Machine learning on 15th November, 2022.
+
 Sai Prasad Surampudi
 700733605
